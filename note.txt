@@ -1,0 +1,6 @@
+npm i express
+npm install
+npm i cors
+npm i mongoose
+npm i dotenv
+npm i colors

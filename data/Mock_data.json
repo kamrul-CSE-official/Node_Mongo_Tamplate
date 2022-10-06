@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Carrots-Purple, Organic",
+    "description": "Ut dolor sit sit lorem voluptua et elitr, sea sed diam vero aliquyam takimata amet stet. Elitr sit sed clita.",
+    "price": 12,
+    "unit": "pic",
+    "quantity": 80,
+    "status": "In-stock"
+  },
+  {
+    "name": "Baking Soda",
+    "description": "Ut dolor sit sit lorem voluptua et elitr, sea sed diam vero aliquyam takimata amet stet. Elitr sit sed clita.",
+    "price": 59,
+    "unit": "kg",
+    "quantity": 71,
+    "status": "In-stock"
+  },
+  {
+    "name": "Sobain",
+    "description": "Ut dolor sit sit lorem voluptua et elitr, sea sed diam vero aliquyam takimata amet stet. Elitr sit sed clita.",
+    "price": 150,
+    "unit": "little",
+    "quantity": 80,
+    "status": "In-stock"
+  },
+  {
+    "name": "Chal",
+    "description": "Ut dolor sit sit lorem voluptua et elitr, sea sed diam vero aliquyam takimata amet stet. Elitr sit sed clita.",
+    "price": 59,
+    "unit": "kg",
+    "quantity": 500,
+    "status": "In-stock"
+  },
+  {
+    "name": "Dal",
+    "description": "Ut dolor sit sit lorem voluptua et elitr, sea sed diam vero aliquyam takimata amet stet. Elitr sit sed clita.",
+    "price": 69,
+    "unit": "kg",
+    "quantity": 500,
+    "status": "out-of-stock"
+  }
+]
